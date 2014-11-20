@@ -1,5 +1,5 @@
 ["abstract.coffee"
- //"ackbar.coffee",
+// "ackbar.coffee",
  //"animal.coffee",
  //"aww.coffee",
  //"bing.coffee",
@@ -11,4 +11,5 @@
  //"haskell.coffee",
  //"isup.coffee",
  //"thanks-obama.coffee",
- //"uptime.coffee"]
+    //"uptime.coffee"
+]
